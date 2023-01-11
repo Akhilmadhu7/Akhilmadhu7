@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Akhil Madhu
+### <h1 align=center>Hi there 👋 I'm Akhil Madhu</h1>
 <br/>
-<strong style="text-align:center;">I am a passionate Full Stack Developer  from India</strong>
+<h3 align=center>I am a passionate Full Stack Developer  from India</h3>
 
 <br/>
 <br/>
@@ -9,7 +9,7 @@
 <br/>
 - 🔭 I've created and hosted an e-commerce website,
 <br/>
-<a href=https://snapbuy.website/>Snapbuy</a>
+&nbsp &nbsp <a href=https://snapbuy.website/>Snapbuy</a>
 <br/>
 <br/>
 - All of my projects are available at https://github.com/Akhilmadhu7?tab=repositories
