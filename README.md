@@ -1,4 +1,38 @@
-### Hi there 👋
+### Hi there 👋 I'm Akhil Madhu
+<br/>
+<strong style="text-align:center;">I am a passionate Full Stack Developer  from India</strong>
+
+<br/>
+<br/>
+- 🔭 I’m currently working on socilmedia application
+<br/>
+<br/>
+- 🔭 I've created and hosted an e-commerce website,
+<br/>
+<a href=https://snapbuy.website/>Snapbuy</a>
+<br/>
+<br/>
+- All of my projects are available at https://github.com/Akhilmadhu7?tab=repositories
+<br/>
+<br/>
+- ⚡️ I'm a quick learner
+<br/>
+<br/>
+- 📫 How to reach me <a href=www.linkedin.com/in/akhil-madhu-b6623b229>Linkedin</a>
+<br/>
+<br/>
+<strong>Languages and Tools</strong>
+<br/>
+<br/>
+Python &nbsp Javascript &nbsp Django &nbsp DRF &nbsp Reactjs &nbsp Sql &nbsp Nginx &nbsp html5 &nbsp Css &nbsp Tailwind &nbsp Git &nbsp Figma
+<br/>
+<br/>
+- 💬 Ask me about Python &nbsp Django
+
+
+
+
+
 
 <!--
 **Akhilmadhu7/Akhilmadhu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
