@@ -4,7 +4,7 @@
 
 <br/>
 <br/>
-- 🔭 I’m currently working on socilmedia application
+- 🔭 I’m currently working on socialmedia application
 <br/>
 <br/>
 - 🔭 I've created and hosted an e-commerce website,
