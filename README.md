@@ -7,7 +7,6 @@
 <br/>
 - 🔭 I've worked on multiple projects which includes SAAS applications.
 <br/>
-&nbsp &nbsp <a href=https://snapbuy.website/>Snapbuy</a>
 <br/>
 <br/>
 - All of my projects are available at https://github.com/Akhilmadhu7?tab=repositories
@@ -22,7 +21,7 @@
 <strong>Languages and Tools</strong>
 <br/>
 <br/>
-Python &nbsp Javascript &nbsp Django &nbsp DRF &nbsp Reactjs &nbsp Sql &nbsp Nginx &nbsp html5 &nbsp Css &nbsp Tailwind &nbsp Git &nbsp Figma
+Python &nbsp Go &nbsp Javascript &nbsp Django &nbsp DRF &nbsp Reactjs &nbsp Sql &nbsp Nginx &nbsp html5 &nbsp Css &nbsp Tailwind &nbsp Git &nbsp Figma
 <br/>
 <br/>
 - 💬 Ask me about Python &nbsp Django
