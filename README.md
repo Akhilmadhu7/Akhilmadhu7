@@ -3,11 +3,9 @@
 <h3 align=center>I am a passionate Full Stack Developer  from India</h3>
 
 <br/>
+
 <br/>
-- 🔭 I’m currently working on socialmedia application
-<br/>
-<br/>
-- 🔭 I've created and hosted an e-commerce website,
+- 🔭 I've worked on multiple projects which includes SAAS applications.
 <br/>
 &nbsp &nbsp <a href=https://snapbuy.website/>Snapbuy</a>
 <br/>
