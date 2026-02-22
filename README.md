@@ -21,7 +21,7 @@
 <strong>Languages and Tools</strong>
 <br/>
 <br/>
-Python &nbsp Go &nbsp Javascript &nbsp Django &nbsp DRF &nbsp Reactjs &nbsp Sql &nbsp Nginx &nbsp html5 &nbsp Css &nbsp Tailwind &nbsp Git &nbsp Figma
+Python &nbsp Go &nbsp Javascript &nbsp FastAPI &nbsp Django &nbsp DRF &nbsp Reactjs &nbsp Sql &nbsp Nginx &nbsp Git
 <br/>
 <br/>
 - 💬 Ask me about Python &nbsp Django
